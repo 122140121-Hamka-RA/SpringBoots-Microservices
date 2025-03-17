@@ -7,6 +7,7 @@ Proyek ini mendemonstrasikan migrasi dari **Arsitektur Monolitik** ke **Arsitekt
 - [Tinjauan Arsitektur Microservices](#tinjauan-arsitektur-microservices)
 - [Proses Migrasi](#proses-migrasi)
 - [Struktur Proyek](#struktur-proyek)
+- [Struktur Database](#struktur-database)
 - [Menjalankan Aplikasi](#menjalankan-aplikasi)
 - [Kesimpulan](#kesimpulan)
 
